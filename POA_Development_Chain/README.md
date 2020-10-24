@@ -115,9 +115,9 @@ Below images show the transaction meta data for the transaction that was sent
 
 ## 5. Files
 All files are located in the folder POA_Development_Chain, which contains the following:
-      * [Readme](POA_Development_Chain/README.md)
-      * [Node 1 folder](POA_Development_Chain/node1)
-      * [Node 2 folder](POA_Development_Chain/node2)
-      * [blockchain json file](/POA_Development_Chain/zblock.json)
-      * [Images for readme](POA_Development_Chain/Images)
-      * [Screenshots](POA_Development_Chain/Screenshots) associated with command prompt (puppeth and MyCrypto transaction)
+  * [Readme](README.md)
+  * [Node 1 folder](node1)
+  * [Node 2 folder](node2)
+  * [blockchain json file](zblock.json)
+  * [Images for readme](Images)
+  * [Screenshots](Screenshots) associated with command prompt (puppeth and MyCrypto transaction)
